@@ -1,0 +1,30 @@
+INFO 2024-03-15 23:36:41,593 autoreload 15904 14296 Watching for file changes with StatReloader
+INFO 2024-03-15 23:39:10,608 autoreload 16572 8560 Watching for file changes with StatReloader
+INFO 2024-03-15 23:39:38,077 autoreload 16572 8560 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\settings.py changed, reloading.
+INFO 2024-03-15 23:39:38,423 autoreload 15608 15440 Watching for file changes with StatReloader
+INFO 2024-03-15 23:39:39,626 autoreload 15608 15440 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\settings.py changed, reloading.
+INFO 2024-03-15 23:39:39,997 autoreload 15464 15288 Watching for file changes with StatReloader
+INFO 2024-03-15 23:40:16,605 autoreload 15464 15288 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-15 23:40:57,593 autoreload 15948 10184 Watching for file changes with StatReloader
+INFO 2024-03-16 00:18:02,429 autoreload 11860 13752 Watching for file changes with StatReloader
+INFO 2024-03-16 00:21:06,686 autoreload 11860 13752 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:21:07,062 autoreload 10172 14452 Watching for file changes with StatReloader
+INFO 2024-03-16 00:33:03,243 autoreload 10172 14452 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:33:03,557 autoreload 15624 12632 Watching for file changes with StatReloader
+INFO 2024-03-16 00:33:26,005 autoreload 15624 12632 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:33:26,323 autoreload 6836 14568 Watching for file changes with StatReloader
+INFO 2024-03-16 00:40:25,297 autoreload 6836 14568 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:40:25,637 autoreload 5252 14464 Watching for file changes with StatReloader
+INFO 2024-03-16 00:40:32,909 autoreload 12696 5532 Watching for file changes with StatReloader
+INFO 2024-03-16 00:46:04,412 autoreload 12696 5532 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:46:04,769 autoreload 4620 3524 Watching for file changes with StatReloader
+INFO 2024-03-16 00:46:59,577 autoreload 4620 3524 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:46:59,888 autoreload 1296 8428 Watching for file changes with StatReloader
+INFO 2024-03-16 00:48:14,928 autoreload 1296 8428 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:48:15,246 autoreload 14000 17044 Watching for file changes with StatReloader
+INFO 2024-03-16 00:48:48,823 autoreload 14000 17044 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\models.py changed, reloading.
+INFO 2024-03-16 00:48:54,828 autoreload 5908 14836 Watching for file changes with StatReloader
+INFO 2024-03-16 00:57:28,832 autoreload 5908 14836 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\urls.py changed, reloading.
+INFO 2024-03-16 00:57:29,189 autoreload 16948 6836 Watching for file changes with StatReloader
+INFO 2024-03-16 00:57:33,500 autoreload 16948 6836 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\urls.py changed, reloading.
+INFO 2024-03-16 00:57:33,839 autoreload 15392 6464 Watching for file changes with StatReloader
