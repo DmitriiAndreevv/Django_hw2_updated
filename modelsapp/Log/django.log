@@ -550,3 +550,49 @@ INFO 2024-03-23 00:26:20,554 basehttp 1604 16204 "GET /user_sorted/1/1/ HTTP/1.1
 INFO 2024-03-23 00:26:28,315 basehttp 1604 16204 "GET /user_sorted/2/1/ HTTP/1.1" 200 254
 WARNING 2024-03-23 00:26:37,407 log 1604 14976 Not Found: /favicon.ico
 WARNING 2024-03-23 00:26:37,407 basehttp 1604 14976 "GET /favicon.ico HTTP/1.1" 404 2850
+INFO 2024-03-27 22:47:19,720 autoreload 5620 13700 Watching for file changes with StatReloader
+INFO 2024-03-27 22:50:43,725 autoreload 14812 1512 Watching for file changes with StatReloader
+INFO 2024-03-27 22:51:31,452 autoreload 14812 1512 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\views.py changed, reloading.
+INFO 2024-03-27 22:51:31,808 autoreload 6716 14852 Watching for file changes with StatReloader
+INFO 2024-03-27 22:51:37,006 autoreload 6716 14852 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modapp\views.py changed, reloading.
+INFO 2024-03-27 22:52:01,735 autoreload 13360 10624 Watching for file changes with StatReloader
+INFO 2024-03-27 22:53:39,116 autoreload 13360 10624 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\formsapp\forms.py changed, reloading.
+INFO 2024-03-27 22:54:22,708 autoreload 1376 14684 Watching for file changes with StatReloader
+INFO 2024-03-27 23:06:16,468 autoreload 10232 7960 Watching for file changes with StatReloader
+INFO 2024-03-27 23:07:26,662 autoreload 10232 7960 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\settings.py changed, reloading.
+INFO 2024-03-27 23:07:27,005 autoreload 13664 11752 Watching for file changes with StatReloader
+INFO 2024-03-27 23:07:28,256 autoreload 13664 11752 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\settings.py changed, reloading.
+INFO 2024-03-27 23:07:28,611 autoreload 8024 14108 Watching for file changes with StatReloader
+INFO 2024-03-27 23:08:57,996 autoreload 8096 5516 Watching for file changes with StatReloader
+INFO 2024-03-27 23:16:54,133 autoreload 13944 2148 Watching for file changes with StatReloader
+INFO 2024-03-27 23:18:31,693 autoreload 13944 2148 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\formsapp\forms.py changed, reloading.
+INFO 2024-03-27 23:18:32,065 autoreload 8040 11644 Watching for file changes with StatReloader
+INFO 2024-03-27 23:18:55,254 basehttp 8040 15368 "GET / HTTP/1.1" 200 736
+WARNING 2024-03-27 23:18:55,272 log 8040 15376 Not Found: /favicon.ico
+WARNING 2024-03-27 23:18:55,272 basehttp 8040 15376 "GET /favicon.ico HTTP/1.1" 404 3058
+WARNING 2024-03-27 23:18:55,372 log 8040 15368 Not Found: /favicon.ico
+WARNING 2024-03-27 23:18:55,373 basehttp 8040 15368 "GET /favicon.ico HTTP/1.1" 404 3058
+INFO 2024-03-27 23:19:20,282 basehttp 8040 16160 "GET /index/ HTTP/1.1" 200 736
+INFO 2024-03-27 23:19:21,531 basehttp 8040 16160 "GET /index/ HTTP/1.1" 200 736
+WARNING 2024-03-27 23:19:35,835 log 8040 16160 Not Found: /index/product_update/2
+WARNING 2024-03-27 23:19:35,835 basehttp 8040 16160 "GET /index/product_update/2 HTTP/1.1" 404 3091
+WARNING 2024-03-27 23:19:57,903 log 8040 16160 Not Found: /index/product_update/2/2/2
+WARNING 2024-03-27 23:19:57,903 basehttp 8040 16160 "GET /index/product_update/2/2/2 HTTP/1.1" 404 3103
+WARNING 2024-03-27 23:20:02,832 log 8040 16160 Not Found: /index/product_update/1
+WARNING 2024-03-27 23:20:02,832 basehttp 8040 16160 "GET /index/product_update/1 HTTP/1.1" 404 3091
+INFO 2024-03-27 23:20:13,168 basehttp 8040 16160 "GET /index/ HTTP/1.1" 200 736
+INFO 2024-03-27 23:20:14,369 basehttp 8040 16160 "GET /hw3/ HTTP/1.1" 200 736
+INFO 2024-03-27 23:20:15,887 basehttp 8040 16160 "GET /hw4 HTTP/1.1" 301 0
+INFO 2024-03-27 23:20:15,904 basehttp 8040 16240 "GET /hw4/ HTTP/1.1" 200 393
+INFO 2024-03-27 23:20:32,995 basehttp 8040 13556 "GET /hw4/product_update/2 HTTP/1.1" 200 1243
+WARNING 2024-03-27 23:23:42,784 log 8040 13556 Not Found: /myformapp/user/add/
+WARNING 2024-03-27 23:23:42,784 basehttp 8040 13556 "GET /myformapp/user/add/ HTTP/1.1" 404 3082
+INFO 2024-03-27 23:24:15,877 basehttp 8040 13556 "POST /hw4/product_update/2 HTTP/1.1" 200 1321
+INFO 2024-03-27 23:26:11,754 basehttp 8040 13556 "POST /hw4/product_update/2 HTTP/1.1" 200 1318
+INFO 2024-03-27 23:27:45,361 basehttp 8040 13556 "POST /hw4/product_update/2 HTTP/1.1" 200 1301
+INFO 2024-03-27 23:29:45,417 basehttp 8040 13556 "POST /hw4/product_update/2 HTTP/1.1" 200 1304
+INFO 2024-03-27 23:30:58,379 basehttp 8040 13556 "POST /hw4/product_update/2 HTTP/1.1" 200 1304
+INFO 2024-03-27 23:34:06,241 autoreload 17100 17104 Watching for file changes with StatReloader
+INFO 2024-03-27 23:34:10,978 basehttp 17100 17672 "POST /hw4/product_update/2 HTTP/1.1" 200 1303
+WARNING 2024-03-27 23:34:33,864 log 17100 15060 Not Found: /favicon.ico
+WARNING 2024-03-27 23:34:33,865 basehttp 17100 15060 "GET /favicon.ico HTTP/1.1" 404 3058

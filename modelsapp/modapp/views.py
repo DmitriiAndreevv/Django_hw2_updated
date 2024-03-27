@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 from django.shortcuts import render
-=======
+# =======
 
 from django.shortcuts import render, get_object_or_404
 from datetime import datetime, timedelta
@@ -33,4 +33,4 @@ def sorted_basket(request, user_id, days_ago):
                 product_set.append(product)
 
     return render(request, 'modapp/user_all_product.html', {'user': user, 'product_set': product_set, 'days_ago' : days_ago})
->>>>>>> 22a590b (updated)
+# >>>>>>> 22a590b (updated)
