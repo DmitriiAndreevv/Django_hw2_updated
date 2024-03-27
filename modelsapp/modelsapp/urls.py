@@ -16,9 +16,12 @@ Including another URLconf
 """
 from django.contrib import admin
 # <<<<<<< HEAD
-from django.urls import path,include
+from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('modapp.urls')),
+    path('hw3/', include('modapp.urls')),
+    path('hw4/', include('formsapp.urls'))
+
 ]
