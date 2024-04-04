@@ -596,3 +596,168 @@ INFO 2024-03-27 23:34:06,241 autoreload 17100 17104 Watching for file changes wi
 INFO 2024-03-27 23:34:10,978 basehttp 17100 17672 "POST /hw4/product_update/2 HTTP/1.1" 200 1303
 WARNING 2024-03-27 23:34:33,864 log 17100 15060 Not Found: /favicon.ico
 WARNING 2024-03-27 23:34:33,865 basehttp 17100 15060 "GET /favicon.ico HTTP/1.1" 404 3058
+INFO 2024-03-31 20:10:10,004 autoreload 11064 3448 Watching for file changes with StatReloader
+INFO 2024-03-31 20:10:14,389 basehttp 11064 10920 "GET / HTTP/1.1" 200 736
+WARNING 2024-03-31 20:10:14,683 log 11064 10920 Not Found: /favicon.ico
+WARNING 2024-03-31 20:10:14,684 basehttp 11064 10920 "GET /favicon.ico HTTP/1.1" 404 3058
+WARNING 2024-03-31 20:10:16,619 log 11064 13660 Not Found: /favicon.ico
+WARNING 2024-03-31 20:10:16,620 basehttp 11064 13660 "GET /favicon.ico HTTP/1.1" 404 3058
+WARNING 2024-03-31 20:10:19,881 base 11064 14060 Session data corrupted
+INFO 2024-03-31 20:10:19,889 basehttp 11064 14060 "GET /admin/ HTTP/1.1" 302 0
+WARNING 2024-03-31 20:10:19,893 base 11064 14060 Session data corrupted
+INFO 2024-03-31 20:10:19,927 basehttp 11064 14060 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+WARNING 2024-03-31 20:10:21,117 base 11064 14060 Session data corrupted
+INFO 2024-03-31 20:10:21,118 basehttp 11064 14060 "GET /admin/ HTTP/1.1" 302 0
+WARNING 2024-03-31 20:10:21,122 base 11064 14060 Session data corrupted
+INFO 2024-03-31 20:10:21,125 basehttp 11064 14060 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+WARNING 2024-03-31 20:10:48,330 base 11064 14060 Session data corrupted
+INFO 2024-03-31 20:10:48,626 basehttp 11064 14060 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2024-03-31 20:10:48,644 basehttp 11064 14060 "GET /admin/ HTTP/1.1" 200 5535
+INFO 2024-03-31 20:33:07,677 autoreload 9156 4056 Watching for file changes with StatReloader
+INFO 2024-03-31 20:41:41,105 autoreload 3204 13868 Watching for file changes with StatReloader
+INFO 2024-03-31 20:45:38,029 autoreload 3204 13868 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 20:45:38,381 autoreload 15124 8472 Watching for file changes with StatReloader
+INFO 2024-03-31 20:46:55,438 autoreload 15124 8472 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 20:46:55,782 autoreload 1400 16300 Watching for file changes with StatReloader
+INFO 2024-03-31 20:46:57,010 autoreload 1400 16300 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 20:52:45,618 autoreload 3416 15744 Watching for file changes with StatReloader
+INFO 2024-03-31 20:52:45,917 basehttp 3416 15144 "GET /admin/ HTTP/1.1" 200 7509
+INFO 2024-03-31 20:52:55,761 basehttp 3416 15144 "GET /admin/modapp/order/ HTTP/1.1" 200 15930
+INFO 2024-03-31 20:52:55,778 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:08,898 basehttp 3416 15144 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 20:53:08,908 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:22,064 basehttp 3416 15144 "GET /admin/modapp/products/?description=how+is+work HTTP/1.1" 200 14097
+INFO 2024-03-31 20:53:22,076 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:23,752 basehttp 3416 15144 "GET /admin/modapp/products/?description=for+gaming HTTP/1.1" 200 14045
+INFO 2024-03-31 20:53:23,762 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:25,839 basehttp 3416 15144 "GET /admin/modapp/products/?description=for+car HTTP/1.1" 200 13977
+INFO 2024-03-31 20:53:25,849 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:30,767 basehttp 3416 15144 "GET /admin/modapp/user/ HTTP/1.1" 200 15036
+INFO 2024-03-31 20:53:30,777 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:42,792 basehttp 3416 15144 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 20:53:42,803 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:56,490 basehttp 3416 15144 "GET /admin/modapp/products/1/change/ HTTP/1.1" 200 11637
+INFO 2024-03-31 20:53:56,500 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:53:59,954 basehttp 3416 15144 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 20:54:13,057 basehttp 3416 15144 "GET /admin/auth/user/ HTTP/1.1" 200 14413
+INFO 2024-03-31 20:54:13,069 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:54:20,123 basehttp 3416 15144 "GET /admin/auth/group/ HTTP/1.1" 200 10451
+INFO 2024-03-31 20:54:20,134 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:54:23,016 basehttp 3416 15144 "GET /admin/modapp/order/ HTTP/1.1" 200 15930
+INFO 2024-03-31 20:54:23,026 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:54:42,995 basehttp 3416 15144 "GET /admin/modapp/order/1/change/ HTTP/1.1" 200 14365
+INFO 2024-03-31 20:54:43,007 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:54:56,957 basehttp 3416 15144 "GET /admin/modapp/order/ HTTP/1.1" 200 15930
+INFO 2024-03-31 20:54:56,966 basehttp 3416 15144 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 20:54:58,378 basehttp 3416 15144 "GET /admin/modapp/ HTTP/1.1" 200 6288
+INFO 2024-03-31 20:58:11,887 autoreload 3416 15744 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 20:58:12,250 autoreload 13700 13712 Watching for file changes with StatReloader
+INFO 2024-03-31 20:59:15,391 autoreload 13700 13712 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 20:59:15,750 autoreload 1400 14996 Watching for file changes with StatReloader
+INFO 2024-03-31 20:59:43,037 autoreload 5924 15060 Watching for file changes with StatReloader
+INFO 2024-03-31 21:01:08,487 autoreload 5924 15060 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:01:08,825 autoreload 1612 15304 Watching for file changes with StatReloader
+INFO 2024-03-31 21:01:18,686 basehttp 1612 15616 "GET /admin/modapp/ HTTP/1.1" 200 6288
+INFO 2024-03-31 21:01:20,374 basehttp 1612 15616 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:01:20,387 basehttp 1612 15616 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:01:23,085 basehttp 1612 15616 "GET /admin/modapp/products/2/change/ HTTP/1.1" 200 13003
+INFO 2024-03-31 21:01:23,097 basehttp 1612 15616 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:01:45,038 basehttp 1612 15616 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:01:45,048 basehttp 1612 15616 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:01:47,712 basehttp 1612 15616 "GET /admin/modapp/products/1/change/ HTTP/1.1" 200 12893
+INFO 2024-03-31 21:01:47,723 basehttp 1612 15616 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:02:11,153 autoreload 1612 15304 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:02:11,518 autoreload 4288 14676 Watching for file changes with StatReloader
+INFO 2024-03-31 21:02:12,823 basehttp 4288 16068 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:02:12,836 basehttp 4288 16068 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:02:35,300 autoreload 4288 14676 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:02:35,655 autoreload 9396 13084 Watching for file changes with StatReloader
+INFO 2024-03-31 21:02:43,029 autoreload 9396 13084 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:02:43,377 autoreload 15892 14048 Watching for file changes with StatReloader
+INFO 2024-03-31 21:02:46,805 basehttp 15892 15392 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:02:46,816 basehttp 15892 15392 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:02:49,363 basehttp 15892 15392 "GET /admin/modapp/user/ HTTP/1.1" 200 15036
+INFO 2024-03-31 21:02:49,372 basehttp 15892 15392 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:02:52,466 basehttp 15892 15392 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:02:52,476 basehttp 15892 15392 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:02:55,528 basehttp 15892 15392 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:02:55,539 basehttp 15892 15392 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:02:57,109 basehttp 15892 15392 "GET /admin/modapp/order/ HTTP/1.1" 200 15930
+INFO 2024-03-31 21:02:57,119 basehttp 15892 15392 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:03:01,122 basehttp 15892 15392 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:03:01,134 basehttp 15892 15392 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:03:29,451 autoreload 15892 14048 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:03:29,809 autoreload 12732 14916 Watching for file changes with StatReloader
+INFO 2024-03-31 21:04:25,884 autoreload 12732 14916 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:04:26,232 autoreload 9396 15028 Watching for file changes with StatReloader
+INFO 2024-03-31 21:04:29,969 basehttp 9396 16004 "GET /admin/modapp/products/ HTTP/1.1" 200 14284
+INFO 2024-03-31 21:04:29,982 basehttp 9396 16004 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:04:32,384 basehttp 9396 16004 "GET /admin/modapp/products/1/change/ HTTP/1.1" 200 12369
+INFO 2024-03-31 21:04:32,394 basehttp 9396 16004 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:04:35,899 basehttp 9396 16004 "POST /admin/modapp/products/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-31 21:04:35,948 basehttp 9396 16004 "GET /admin/modapp/products/ HTTP/1.1" 200 14560
+INFO 2024-03-31 21:04:35,959 basehttp 9396 16004 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:04:47,480 basehttp 9396 16004 "GET /admin/modapp/products/add/ HTTP/1.1" 200 11840
+INFO 2024-03-31 21:04:47,490 basehttp 9396 16004 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:06:51,828 autoreload 9396 15028 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:06:52,187 autoreload 14396 14332 Watching for file changes with StatReloader
+INFO 2024-03-31 21:06:55,329 basehttp 14396 9896 "GET /admin/modapp/products/add/ HTTP/1.1" 200 12455
+INFO 2024-03-31 21:06:55,341 basehttp 14396 9896 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:07:07,809 autoreload 14396 14332 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:07:08,168 autoreload 15164 11556 Watching for file changes with StatReloader
+INFO 2024-03-31 21:07:10,193 basehttp 15164 14720 "GET /admin/modapp/products/add/ HTTP/1.1" 200 12364
+INFO 2024-03-31 21:07:10,204 basehttp 15164 14720 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:07:38,843 basehttp 15164 14720 "POST /admin/modapp/products/add/ HTTP/1.1" 302 0
+INFO 2024-03-31 21:07:38,871 basehttp 15164 14720 "GET /admin/modapp/products/ HTTP/1.1" 200 15287
+INFO 2024-03-31 21:07:38,882 basehttp 15164 14720 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:08:39,127 autoreload 15164 11556 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\adminapp\admin.py changed, reloading.
+INFO 2024-03-31 21:08:39,494 autoreload 6708 13204 Watching for file changes with StatReloader
+INFO 2024-03-31 21:08:44,616 basehttp 6708 15864 "GET /admin/modapp/products/ HTTP/1.1" 200 15013
+INFO 2024-03-31 21:08:44,628 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:08:46,334 basehttp 6708 15864 "GET /admin/modapp/products/4/change/ HTTP/1.1" 200 12538
+INFO 2024-03-31 21:08:46,345 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:09:03,997 basehttp 6708 15864 "POST /admin/modapp/products/4/change/ HTTP/1.1" 302 0
+INFO 2024-03-31 21:09:04,016 basehttp 6708 15864 "GET /admin/modapp/products/ HTTP/1.1" 200 15481
+INFO 2024-03-31 21:09:04,052 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:09:08,613 basehttp 6708 15864 "GET /admin/modapp/products/3/change/ HTTP/1.1" 200 12465
+INFO 2024-03-31 21:09:08,624 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:09:14,622 basehttp 6708 15864 "POST /admin/modapp/products/3/change/ HTTP/1.1" 302 0
+INFO 2024-03-31 21:09:14,640 basehttp 6708 15864 "GET /admin/modapp/products/ HTTP/1.1" 200 15502
+INFO 2024-03-31 21:09:14,651 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:09:23,389 basehttp 6708 15864 "GET /admin/modapp/products/1/change/ HTTP/1.1" 200 12469
+INFO 2024-03-31 21:09:23,401 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:09:35,977 basehttp 6708 15864 "POST /admin/modapp/products/1/change/ HTTP/1.1" 302 0
+INFO 2024-03-31 21:09:35,994 basehttp 6708 15864 "GET /admin/modapp/products/ HTTP/1.1" 200 15664
+INFO 2024-03-31 21:09:36,005 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:10:05,873 basehttp 6708 15864 "GET /admin/modapp/products/add/ HTTP/1.1" 200 11931
+INFO 2024-03-31 21:10:05,885 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:11:22,035 basehttp 6708 15864 "POST /admin/modapp/products/add/ HTTP/1.1" 302 0
+INFO 2024-03-31 21:11:22,053 basehttp 6708 15864 "GET /admin/modapp/products/ HTTP/1.1" 200 16685
+INFO 2024-03-31 21:11:22,065 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:11:34,332 basehttp 6708 15864 "GET /admin/modapp/order/ HTTP/1.1" 200 15953
+INFO 2024-03-31 21:11:34,342 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:11:41,707 basehttp 6708 15864 "GET /admin/modapp/order/2/change/ HTTP/1.1" 200 14658
+INFO 2024-03-31 21:11:41,717 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:11:52,243 basehttp 6708 15864 "GET /admin/modapp/user/ HTTP/1.1" 200 15036
+INFO 2024-03-31 21:11:52,253 basehttp 6708 15864 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:14:43,853 autoreload 14876 15836 Watching for file changes with StatReloader
+INFO 2024-03-31 21:14:46,436 basehttp 14876 5676 "GET /admin/modapp/order/ HTTP/1.1" 200 15953
+INFO 2024-03-31 21:14:46,452 basehttp 14876 5676 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:14:49,680 basehttp 14876 5676 "GET /admin/modapp/order/ HTTP/1.1" 200 15953
+INFO 2024-03-31 21:14:49,691 basehttp 14876 5676 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:15:29,978 basehttp 14876 5676 "GET /admin/modapp/user/ HTTP/1.1" 200 15036
+INFO 2024-03-31 21:15:29,989 basehttp 14876 5676 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:15:31,564 basehttp 14876 5676 "GET /admin/modapp/products/ HTTP/1.1" 200 16360
+INFO 2024-03-31 21:15:31,575 basehttp 14876 5676 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-03-31 21:17:04,124 basehttp 14876 5676 "GET /admin/modapp/order/ HTTP/1.1" 200 15953
+INFO 2024-03-31 21:17:04,136 basehttp 14876 5676 "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 2024-04-04 17:58:07,068 autoreload 17796 7216 Watching for file changes with StatReloader
+INFO 2024-04-04 17:58:20,613 autoreload 17796 7216 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\urls.py changed, reloading.
+INFO 2024-04-04 17:58:21,013 autoreload 14272 1528 Watching for file changes with StatReloader
+INFO 2024-04-04 17:58:22,927 basehttp 14272 14408 "GET / HTTP/1.1" 200 10986
+INFO 2024-04-04 17:58:22,940 basehttp 14272 14408 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-04-04 17:58:22,940 basehttp 14272 2900 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-04-04 17:58:23,034 basehttp 14272 2900 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-04-04 17:58:23,052 basehttp 14272 2900 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2024-04-04 18:02:50,119 autoreload 14272 1528 C:\Users\dmitr\OneDrive\Рабочий стол\Django_hw2\modelsapp\modelsapp\settings.py changed, reloading.
+INFO 2024-04-04 18:02:50,497 autoreload 3848 8416 Watching for file changes with StatReloader

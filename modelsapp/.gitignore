@@ -1,0 +1,10 @@
+/Log/
+/media/
+/Результаты_работы/
+/результат/
+/media/
+/static/
+*.sqlite3
+*.log
+*.pyc
+
