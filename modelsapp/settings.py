@@ -94,12 +94,13 @@ WSGI_APPLICATION = 'modelsapp.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.mysql',
 #         'NAME': 'Mybd',
 #         'USER': 'root',
-#         'PASSWORD': 'Password',
+#         'PASSWORD': '2282282D',
 #         'HOST': 'localhost',
 #         'PORT': '3306',
 #     }
