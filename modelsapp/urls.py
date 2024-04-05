@@ -25,9 +25,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('recipes.urls')),
     path('users/', include('users.urls', namespace='users')),
-    # path('', include('modapp.urls')),
-    # path('hw3/', include('modapp.urls')),
-    # path('hw4/', include('formsapp.urls')),
     # path('__debug__/', include('debug_toolbar.urls')),
 
 ]
