@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = 'django-insecure-#)o3$mej5q7+om(ytd@0#&ibti#2$1+h-1cey3f&(g1j-px!)e'
+SECRET_KEY = 'django-insecure-#)o3$mej5q7+om(ytd@0#&ibti#2$1+h-1cey3f&(g1j-px!)e'
 SECRET_KEY = os.getenv('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
@@ -99,16 +99,16 @@ WSGI_APPLICATION = 'modelsapp.wsgi.application'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'Mybd',
-#         'USER': 'root',
-#         'PASSWORD': 'Password',
-#         'HOST': 'localhost',
-#         'PORT': '3306',
-#     }
-# }
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'Mybd',
+        'USER': 'root',
+        'PASSWORD': 'Password',
+        'HOST': 'localhost',
+        'PORT': '3306',
+    }
+}
 
 DATABASES = {
     'default': {
@@ -155,6 +155,8 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
+
+
 
 
 # Static files (CSS, JavaScript, Images)

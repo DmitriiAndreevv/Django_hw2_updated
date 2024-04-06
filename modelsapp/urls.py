@@ -19,7 +19,7 @@ from django.contrib import admin
 from django.urls import path, include
 from recipes.views import page_not_found
 from modelsapp import settings
-# <<<<<<< HEAD
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
