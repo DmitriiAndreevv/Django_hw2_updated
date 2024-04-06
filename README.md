@@ -82,4 +82,6 @@
 - MySQL - СУБД для хранения данных
 - HTML/CSS - для создания пользовательского интерфейса
 
+- DmitriiAndreev915.pythonanywhere.com
+
 
