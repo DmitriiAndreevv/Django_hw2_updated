@@ -25,10 +25,10 @@
    DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'DmitriiAndreev91',
-        'USER': 'DmitriiAndreev91$Default',
+        'NAME': 'dma$default',
+        'USER': dma',
         'PASSWORD': os.getenv('MYSQL_PASSWORD'),
-        'HOST': 'DmitriiAndreev915.mysql.pythonanywhere-services.com',
+        'HOST': 'dma.mysql.pythonanywhere-services.com',
         'OPTIONS': {
             'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
             'charset': 'utf8mb4',
@@ -82,6 +82,6 @@
 - MySQL - СУБД для хранения данных
 - HTML/CSS - для создания пользовательского интерфейса
 
-- DmitriiAndreev915.pythonanywhere.com
+dma.pythonanywhere.com
 
 
