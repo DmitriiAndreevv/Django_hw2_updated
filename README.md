@@ -82,6 +82,6 @@
 - MySQL - СУБД для хранения данных
 - HTML/CSS - для создания пользовательского интерфейса
 
-dma.pythonanywhere.com
+[dma.pythonanywhere.com](https://dma.pythonanywhere.com/login/?next=/)
 
 
