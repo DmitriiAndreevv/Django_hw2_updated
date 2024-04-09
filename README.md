@@ -85,5 +85,7 @@
 [dma.pythonanywhere.com](https://dma.pythonanywhere.com/login/?next=/)
 
 доработанный репозиторий https://github.com/DmitriiAndreevv/recipesite.git
+- Google Docs
+https://docs.google.com/document/d/1-UciHNLhO-qybxnYrKQYBorEaBkzgTmc5K_reYBSxWA/edit?usp=sharing
 
 
