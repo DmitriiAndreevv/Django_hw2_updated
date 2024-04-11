@@ -82,7 +82,7 @@
 - MySQL - СУБД для хранения данных
 - HTML/CSS - для создания пользовательского интерфейса
 
-[dma.pythonanywhere.com](https://dma.pythonanywhere.com/login/?next=/)
+[dma.pythonanywhere.com](https://dma.pythonanywhere.com/)
 
 доработанный репозиторий https://github.com/DmitriiAndreevv/recipesite.git
 - Google Docs
